@@ -79,3 +79,9 @@ ModelManifest.xml
 #zzzili
 v15/
 .gitignore
+obj
+bin
+# user files
+.user
+.suo
+*.dll
